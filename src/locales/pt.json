@@ -1,0 +1,32 @@
+{
+    "nav": {
+        "projects": "Projetos",
+        "about": "Sobre mim"
+    },
+    "banner": {
+        "hi": "Olá! Eu sou",
+        "name": "Antonio Ferreiro",
+        "job": "Engenheiro de software"
+    },
+    "github": {
+        "projects":"Projetos & Trabalhos",
+        "definition1": "Estes são alguns dos meus projetos pessoais ",
+        "definition2": ". Aqui guardo o código de trabalhos dos meus cursos (os chamo Peeper*), bem como o código dos projetos feitos por mim.",
+		"eurosnovos": "Euros Novos",
+		"cryptokit": "CryptoKit",
+        "representados": "Representados",
+        "angular": "Portfolio-angular",
+		"express": "PeeperNode",
+		"peeperpattern": "PeeperPattern",
+        "pattern": "padrões de desenho",
+		"peepermaven": "PeeperMaven",
+		"io": "Web pessoal",
+		"peeperandroid": "PeeperAndroid"
+    },
+    "footer": {
+        "about": "Sobre mim",
+        "aboutprofesional": "Sou galego e moro na Galiza (Espanha). Estudei Engenharia da Computação na Universidade de Vigo e desde 2016 trabalho como engenheiro de software.",
+        "aboutweb": "© 2020-2022, Feito com ",
+        "contact": "Contato"
+    }
+}

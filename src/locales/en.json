@@ -1,0 +1,32 @@
+{
+    "nav": {
+        "projects": "Projects",
+        "about": "About me"
+    },
+    "banner": {
+        "hi": "Hi there! I'm",
+        "name": "Antonio Ferreiro",
+        "job": "Software engineer"
+    },
+    "github": {
+        "projects":"Projects & Works",
+        "definition1": "These are some of my personal projects of mine ",
+        "definition2": ". Here I keep the code of works from my courses (I call them Peeper*) as well as the code of projects made by myself.",
+		"eurosnovos": "Euros Novos",
+		"cryptokit": "CryptoKit",
+        "representados": "Representados",
+        "angular": "Portfolio-angular",
+		"express": "PeeperNode",
+		"peeperpattern": "PeeperPattern",
+        "pattern": "design patterns",
+		"peepermaven": "PeeperMaven",
+		"io": "Personal web",
+		"peeperandroid": "PeeperAndroid"
+    },
+    "footer": {
+        "about": "About me",
+        "aboutprofesional": "I'm Galician and I live in Galicia (Spain). I studied computer engineering at the University of Vigo and since 2016 I am working as a software engineering.",
+        "aboutweb": "© 2020-2022, Built with ",
+        "contact": "Contact"
+    }
+}
